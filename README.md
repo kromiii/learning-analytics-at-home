@@ -1,5 +1,7 @@
 # 自宅で始める Learning Analytics Platform の構築
 
+https://zenn.dev/kromiii/books/bd5dd8ca2de0a4
+
 ## LMS (moodle) の起動
 
 ```
